@@ -9,3 +9,5 @@ With intuitive and easy to use UI focussing on both looks and a great user exper
 
 ## Coming 2026
 What are you waiting for? Put it in your calendar!
+
+Powered by FyreBlitz.

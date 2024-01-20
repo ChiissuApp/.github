@@ -7,7 +7,7 @@ And the best part? It's free.
 
 With intuitive and easy to use UI focussing on both looks and a great user experience.
 
-## Coming 2026
+### Coming 2026
 What are you waiting for? Put it in your calendar!
 
 Powered by FyreBlitz.
